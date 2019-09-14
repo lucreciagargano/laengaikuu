@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eenaighux.delta-project.org/sitemap.xml
